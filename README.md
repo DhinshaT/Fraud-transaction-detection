@@ -3,7 +3,9 @@ Objective : To develop a model for predicting fraudulent transactions for a fina
 
 ## Model building
 RandomForestClassifier
+
 Decision tree
+
 Xgboost
 
 ## ToolKit
